@@ -1,0 +1,17 @@
+Vehicle_Segment,Powertrain,Manufacturing_Emissions_tCO2e,Total_Lifecycle_Intensity_gCO2e_km,Lifetime_Emissions_200k_km_tCO2e
+Hatchback / Compact,Petrol,7.2,196.0,39.2
+Hatchback / Compact,Diesel,7.8,181.0,36.2
+Hatchback / Compact,Plug-in Hybrid (PHEV),11.5,125.5,25.1
+Hatchback / Compact,Battery Electric (BEV),12.8,79.0,15.8
+Sedan,Petrol,8.5,231.5,46.3
+Sedan,Diesel,9.1,211.5,42.3
+Sedan,Plug-in Hybrid (PHEV),13.2,150.0,30.0
+Sedan,Battery Electric (BEV),15.0,93.0,18.6
+SUV,Petrol,10.5,283.5,56.7
+SUV,Diesel,11.2,259.2,51.8
+SUV,Plug-in Hybrid (PHEV),16.0,183.0,36.6
+SUV,Battery Electric (BEV),18.5,114.5,22.9
+Truck,Petrol,13.0,358.0,71.6
+Truck,Diesel,14.0,330.0,66.0
+Truck,Plug-in Hybrid (PHEV),19.5,227.5,45.5
+Truck,Battery Electric (BEV),23.0,143.0,28.6

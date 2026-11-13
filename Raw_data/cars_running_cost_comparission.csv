@@ -1,0 +1,6 @@
+vehicle_category,average_consumption_petrol_ltr,average_consumption_diesel_ltr,average_consumption_kwh,petrol_cost_100km_euro,diesel_cost_100km_euro,ev_home_charging_cost_euro,ev_station_charging_euro
+hatchback/compact,6.0,5.2,14.5,10.5,8.58,4.35,5.51
+sedan,7.2,6.1,16.0,12.6,10.06,4.8,6.08
+crossover,7.8,6.8,17.5,13.65,11.22,5.25,6.65
+suv,9.5,8.2,20.5,16.62,13.53,6.15,7.79
+truck,12.5,10.5,26.0,21.88,17.32,7.8,9.88
